@@ -22,7 +22,7 @@ This project demostrates a comprehensive data warehousing and analystics solutio
 
 #### BI: Analytics & Reporting (Data Analytics)
 
-#### Objective:
+### Objective:
           Develop SQL-based analytics to deliver detailed insights into:
 
 - **Customer Behavior**
