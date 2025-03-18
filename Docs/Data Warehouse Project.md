@@ -9,10 +9,10 @@
     - Draw the Data Architecture
       
 3.	Project Initialization
-    -Create Detailed Projects Task
-    -Define Project Naming Convertions
-  	-create GIT Repo & Prepare the Structure
-  	-Create Database & Schemas
+    -- Create Detailed Projects Task
+    -- Define Project Naming Convertions
+  	-- create GIT Repo & Prepare the Structure
+  	-- Create Database & Schemas
   	
 4.	Build Bronze Layer
     -Analysing: source Systems
