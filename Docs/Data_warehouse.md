@@ -9,4 +9,4 @@
 
 ![data1-removebg-preview](https://github.com/user-attachments/assets/8094cdde-9124-4ef9-ac91-8d778704edd1)
 
-<img width="600" alt="data" src="https://github.com/user-attachments/assets/8e6250a2-9427-483e-a061-88b5b4984337" />
+<img width="900" alt="data" src="https://github.com/user-attachments/assets/8e6250a2-9427-483e-a061-88b5b4984337" />
