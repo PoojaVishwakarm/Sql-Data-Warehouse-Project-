@@ -181,5 +181,5 @@ This document outlines the naming conventions used for schemas, tables, views, c
 
 
 
-## III. create GIT Repo & Prepare the Structure
+## III. Create GIT Repo & Prepare the Structure
 ## VI. Create Database & Schemas
