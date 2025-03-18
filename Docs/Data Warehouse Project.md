@@ -44,23 +44,23 @@
 # Project Requirements
 Building the Data Warehouse (Data Engineering)
 
-  # Objective:
+ # Objective:
 Develop a modern data warehouse using server to consolidate sales data, enabling analytical reporting  and decision-making.
 
 # Specifications:
-	- Data sources: Import data from two source system (ERP and CRM) provided as CSV files.
-	- Data Quality: Cleanse and resolve data quality issues prior to analysis.
-    - Integration: combine both sources into a single, user- friendly data model designed for analytical queries.
-    - Scope: Focus on the latest dataset only.
-    - Documentation: Provide clear documentation data model to support both business stakeholders and analytics teams.
+- Data sources: Import data from two source system (ERP and CRM) provided as CSV files.
+- Data Quality: Cleanse and resolve data quality issues prior to analysis.
+- Integration: combine both sources into a single, user- friendly data model designed for analytical queries.
+ - Scope: Focus on the latest dataset only.
+ - Documentation: Provide clear documentation data model to support both business stakeholders and analytics teams.
 
 # BI: Analytics & Reporting (Data Analysis)
 
 # Objective:
 Develop SQL-based analytics to deliver detailed  insights into:
-	- Customer Behavior
-	- Products performance
-	- Sales Trends
+- Customer Behavior
+- Products performance
+- Sales Trends
  These insights empower stakeholders with key business  metrics, enabling strategic, decision-making.
 
 
