@@ -195,7 +195,9 @@ This document outlines the naming conventions used for schemas, tables, views, c
 
 <img width="700" alt="ANALYSISI" src="https://github.com/user-attachments/assets/fd3daad8-dbc7-44da-a8eb-898fec0e7232" />
 
-## 2.Coding:      Data Ingestion
-## 3.Validating:  Data Completeness & Schema Checks
+## 2.Coding:      Data Ingestion   AND    3.Validating:  Data Completeness & Schema Checks
+    - Creating DDL for tables
+    - Develop SQL Load Scripts
+![bulk1-removebg-preview](https://github.com/user-attachments/assets/dc512dd1-441c-4962-b845-899c17da10dd)
 ## 4.Documents:   Draw Data Flow
 ## 5.Commit code in git repo
