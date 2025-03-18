@@ -1,7 +1,7 @@
 ## Data Warehouse Project
 
 1.	Requirement Analysis
-    -Analyse & Understand the Requirements
+    - Analyse & Understand the Requirements
     
 2.	Design Data Architecture
     - Choose Data Management Approach
