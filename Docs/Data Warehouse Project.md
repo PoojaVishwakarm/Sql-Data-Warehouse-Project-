@@ -193,9 +193,9 @@ This document outlines the naming conventions used for schemas, tables, views, c
     
 ## 1. Analysing:   Source Systems
 
-<img width="543" alt="ANALYSISI" src="https://github.com/user-attachments/assets/fd3daad8-dbc7-44da-a8eb-898fec0e7232" />
+<img width="700" alt="ANALYSISI" src="https://github.com/user-attachments/assets/fd3daad8-dbc7-44da-a8eb-898fec0e7232" />
 
-  	- Coding:      Data Ingestion
-  	- Validating:  Data Completeness & Schema Checks
-  	- Documents:   Draw Data Flow
-  	- Commit code in git repo
+## 2.Coding:      Data Ingestion
+## 3.Validating:  Data Completeness & Schema Checks
+## 4.Documents:   Draw Data Flow
+## 5.Commit code in git repo
