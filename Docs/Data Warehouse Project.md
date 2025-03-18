@@ -15,10 +15,10 @@
   	-  Create Database & Schemas
   	
 4.	Build Bronze Layer
-    - Analysing: source Systems
-  	- Coding:Data Ingestion
-  	- Validating:Data Completeness & Schema Checks
-  	- Documents:Draw Data Flow
+    - Analysing:   source Systems
+  	- Coding:      Data Ingestion
+  	- Validating:  Data Completeness & Schema Checks
+  	- Documents:   Draw Data Flow
   	- Commit code in git repo
   	
 5.	Build Silver Layer
