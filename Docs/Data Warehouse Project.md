@@ -85,4 +85,10 @@ Develop SQL-based analytics to deliver detailed  insights into:
 
 ![soc-removebg-preview](https://github.com/user-attachments/assets/882cea2b-d667-437a-95bb-781c06951e13)
 
+## III.Draw the Data Architecture
 
+![data_architecture](https://github.com/user-attachments/assets/57c38719-d8df-4f20-a48a-f575111e456a)
+
+============================================================================
+=
+# 3.Project Initialization
