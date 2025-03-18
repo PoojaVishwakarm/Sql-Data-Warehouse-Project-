@@ -189,8 +189,7 @@ This document outlines the naming conventions used for schemas, tables, views, c
 =
 
 # 4.Build Bronze Layer
-<img width="638" alt="BROZON" src="https://github.com/user- 
-    attachments/assets/4b16d42e-5941-4110-86c6-ba606c976d4b" />
+<img width="638" alt="BROZON" src="https://github.com/user-attachments/assets/4b16d42e-5941-4110-86c6-ba606c976d4b" />
     
 ## 1. Analysing:   Source Systems
 
