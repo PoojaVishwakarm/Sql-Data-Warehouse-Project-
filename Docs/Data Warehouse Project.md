@@ -4,12 +4,12 @@
     - Analyse & Understand the Requirements
     
 2.	Design Data Architecture
-    - Choose Data Management Approach
-    - Brainstorm & Design the Layers
-    - Draw the Data Architecture
+    -  Choose Data Management Approach
+    -  Brainstorm & Design the Layers
+    -  Draw the Data Architecture
       
 3.	Project Initialization
-   - Create Detailed Projects Task
+    - Create Detailed Projects Task
     - Define Project Naming Convertions
   	- create GIT Repo & Prepare the Structure
   	-  Create Database & Schemas
