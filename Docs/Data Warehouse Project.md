@@ -77,3 +77,11 @@ Develop SQL-based analytics to deliver detailed  insights into:
 
 ## II.Brainstorm & Design the Layers
 <img width="800" alt="layerspng" src="https://github.com/user-attachments/assets/e4738035-2205-454d-aea6-b41818c39d06" />
+
+
+-SEPARATION OF CONCERNS
+![6-removebg-preview](https://github.com/user-attachments/assets/b3bdfaf3-0e7c-467b-9229-600a573ab70f)
+
+![soc-removebg-preview](https://github.com/user-attachments/assets/882cea2b-d667-437a-95bb-781c06951e13)
+
+
