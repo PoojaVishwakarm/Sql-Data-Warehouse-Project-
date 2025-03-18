@@ -34,6 +34,7 @@
   	 - Validating: Data Integration Checks
   	 - Document: Draw Data Model of star Schema
   	 - Document: Create Data Catalog
+
 [Notion] https://www.notion.so/Data-Warehouse-Project-1b8dbf418f1380b9aab2f8ab02e9c6a3?pvs=4
   
 ============================================================================
