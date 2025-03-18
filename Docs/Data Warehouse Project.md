@@ -76,4 +76,4 @@ Develop SQL-based analytics to deliver detailed  insights into:
 ![data_achitecture_5 2-removebg-preview](https://github.com/user-attachments/assets/481f01ea-618e-429e-b824-98c6d0b4946e)
 
 ## II.Brainstorm & Design the Layers
-<img width="632" alt="layerspng" src="https://github.com/user-attachments/assets/e4738035-2205-454d-aea6-b41818c39d06" />
+<img width="800" alt="layerspng" src="https://github.com/user-attachments/assets/e4738035-2205-454d-aea6-b41818c39d06" />
