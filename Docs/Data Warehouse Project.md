@@ -9,8 +9,8 @@
     - Draw the Data Architecture
       
 3.	Project Initialization
-        - Create Detailed Projects Task
-        - Define Project Naming Convertions
+   - Create Detailed Projects Task
+    - Define Project Naming Convertions
   	- create GIT Repo & Prepare the Structure
   	-  Create Database & Schemas
   	
@@ -92,3 +92,11 @@ Develop SQL-based analytics to deliver detailed  insights into:
 ============================================================================
 =
 # 3.Project Initialization
+ ## I. Create Detailed Projects Task
+      [Notion] https://www.notion.so/Data-Warehouse-Project-1b8dbf418f1380b9aab2f8ab02e9c6a3?pvs=4
+ 
+## II. Define Project Naming Convertions
+
+
+## III. create GIT Repo & Prepare the Structure
+## VI. Create Database & Schemas
