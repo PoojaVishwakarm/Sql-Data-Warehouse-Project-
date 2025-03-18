@@ -63,7 +63,17 @@ Develop SQL-based analytics to deliver detailed  insights into:
 - Sales Trends
  These insights empower stakeholders with key business  metrics, enabling strategic, decision-making.
 
+============================================================================
 =
-=
+# 2.Design Data Architecture
+ ## I.Choose the Right Approach
+ 
+![achi-removebg-preview](https://github.com/user-attachments/assets/8896e94f-a74a-47d7-a508-59c33abcbdbb)
 
-  	
+ ### How to build Data Warehouse
+ 
+
+![data_achitecture_5 2-removebg-preview](https://github.com/user-attachments/assets/481f01ea-618e-429e-b824-98c6d0b4946e)
+
+## II.Brainstorm & Design the Layers
+<img width="632" alt="layerspng" src="https://github.com/user-attachments/assets/e4738035-2205-454d-aea6-b41818c39d06" />
