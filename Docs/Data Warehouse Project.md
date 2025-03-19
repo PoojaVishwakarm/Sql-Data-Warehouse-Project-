@@ -212,11 +212,12 @@ This document outlines the naming conventions used for schemas, tables, views, c
 
 ![silver3-removebg-preview](https://github.com/user-attachments/assets/18184e89-2a42-4cab-b845-fdd03ca53909)
 
+
+
+## I. Analysing:Explore & Understand Data       and   ## II. Coding:Data Cleaning
  ### Integration Model
  ![data_integration](https://github.com/user-attachments/assets/7e599436-fd59-40a8-93a1-8d2955d02440)
 
-## I. Analysing:Explore & Understand Data
-## II. Coding:Data Cleaning
 ## III. Validating:Data correctness Checks
 ## IV. Documenting & Versioning in GIT
 ## V. Commit Code in GIT Repo
