@@ -209,7 +209,9 @@ This document outlines the naming conventions used for schemas, tables, views, c
 ============================================================================
 =
 # 5.	Build Silver Layer
-<img width="641" alt="Ssilver" src="https://github.com/user-attachments/assets/39b86092-1706-4a1a-9ac1-8dab28822310" />
+
+![silver3-removebg-preview](https://github.com/user-attachments/assets/18184e89-2a42-4cab-b845-fdd03ca53909)
+
 
 ## I. Analysing:Explore & Understand Data
 ## II. Coding:Data Cleaning
