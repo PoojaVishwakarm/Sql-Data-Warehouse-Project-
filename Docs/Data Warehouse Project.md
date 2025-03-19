@@ -220,8 +220,9 @@ This document outlines the naming conventions used for schemas, tables, views, c
 
  ### Integration Model
  ![data_integration](https://github.com/user-attachments/assets/7e599436-fd59-40a8-93a1-8d2955d02440)
-## III. Coding:Data Cleaning
+## III. Coding:Data Cleaning AND
 ## IV. Validating:Data correctness Checks
+    - Create DDL for Tables
 ## V. Documenting & Versioning in GIT
 ## VI. Commit Code in GIT Repo
 
