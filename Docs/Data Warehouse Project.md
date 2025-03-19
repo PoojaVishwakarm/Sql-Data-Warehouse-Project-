@@ -202,4 +202,6 @@ This document outlines the naming conventions used for schemas, tables, views, c
 ![bulk1-removebg-preview](https://github.com/user-attachments/assets/dc512dd1-441c-4962-b845-899c17da10dd)
  - Create Stored Procedure
 ## 4.Documents:   Draw Data Flow
+![data_flow](https://github.com/user-attachments/assets/53d19463-f06a-4408-8cca-90419086f37a)
+
 ## 5.Commit code in git repo
