@@ -23,6 +23,7 @@
   	
 5.	Build Silver Layer
     - Analysing:Explore & Understand Data
+    - Ducument:Draw Data Integration
   	- Coding:Data Cleaning
   	- Validating:Data correctness Checks
   	- Documenting & Versioning in GIT
@@ -215,11 +216,12 @@ This document outlines the naming conventions used for schemas, tables, views, c
 
 
 ## I. Analysing:Explore & Understand Data      AND  
-## II. Coding:Data Cleaning
+## II.Ducument:Draw Data Integration
+
  ### Integration Model
  ![data_integration](https://github.com/user-attachments/assets/7e599436-fd59-40a8-93a1-8d2955d02440)
-
-## III. Validating:Data correctness Checks
-## IV. Documenting & Versioning in GIT
-## V. Commit Code in GIT Repo
+## III. Coding:Data Cleaning
+## IV. Validating:Data correctness Checks
+## V. Documenting & Versioning in GIT
+## VI. Commit Code in GIT Repo
 
