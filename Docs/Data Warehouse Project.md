@@ -205,3 +205,15 @@ This document outlines the naming conventions used for schemas, tables, views, c
 ![data_flow](https://github.com/user-attachments/assets/53d19463-f06a-4408-8cca-90419086f37a)
 
 ## 5.Commit code in git repo
+
+============================================================================
+=
+# 5.	Build Silver Layer
+<img width="641" alt="Ssilver" src="https://github.com/user-attachments/assets/39b86092-1706-4a1a-9ac1-8dab28822310" />
+
+## I. Analysing:Explore & Understand Data
+## II. Coding:Data Cleaning
+## III. Validating:Data correctness Checks
+## IV. Documenting & Versioning in GIT
+## V. Commit Code in GIT Repo
+
