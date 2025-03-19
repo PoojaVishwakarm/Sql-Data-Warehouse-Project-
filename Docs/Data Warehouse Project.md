@@ -214,7 +214,8 @@ This document outlines the naming conventions used for schemas, tables, views, c
 
 
 
-## I. Analysing:Explore & Understand Data       and   ## II. Coding:Data Cleaning
+## I. Analysing:Explore & Understand Data      AND  
+## II. Coding:Data Cleaning
  ### Integration Model
  ![data_integration](https://github.com/user-attachments/assets/7e599436-fd59-40a8-93a1-8d2955d02440)
 
