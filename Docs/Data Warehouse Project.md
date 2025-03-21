@@ -232,10 +232,15 @@ This document outlines the naming conventions used for schemas, tables, views, c
 =
 
 # 6.	Build Gold Layer
+
+<img width="632" alt="Gold Layer" src="https://github.com/user-attachments/assets/5d21b9a0-5378-4b41-93d3-0148968962c9" />
+
 ## I. Analysing:Explore Business Objects
 ##  II. Coding: Data Integration
 ## III. Validating: Data Integration Checks
 ## IV. Document: Draw Data Model of star Schema
+![data_model-removebg-preview](https://github.com/user-attachments/assets/06d41700-03d1-4120-b69f-a9edff82569d)
+
 ## V. Document: Create Data Catalog
 ## VI. Document: Extend Data Flow
 ## VII. Commit Code in Git Repo
