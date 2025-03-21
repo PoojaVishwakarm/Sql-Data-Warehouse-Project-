@@ -241,6 +241,10 @@ This document outlines the naming conventions used for schemas, tables, views, c
 ## IV. Document: Draw Data Model of star Schema
 ![data_model-removebg-preview](https://github.com/user-attachments/assets/06d41700-03d1-4120-b69f-a9edff82569d)
 
+- There are three type of data type
+![dataModel-removebg-preview](https://github.com/user-attachments/assets/0f7610c5-42f8-42f4-bc7e-200aabedc05a)
+
+
 ## V. Document: Create Data Catalog
 ## VI. Document: Extend Data Flow
 ## VII. Commit Code in Git Repo
