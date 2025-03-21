@@ -35,6 +35,8 @@
   	 - Validating: Data Integration Checks
   	 - Document: Draw Data Model of star Schema
   	 - Document: Create Data Catalog
+     - Document: Extend Data Flow
+     - Commit Code in Git Repo
 
        [Notion] https://www.notion.so/Data-Warehouse-Project-1b8dbf418f1380b9aab2f8ab02e9c6a3?pvs=4
   
@@ -225,4 +227,16 @@ This document outlines the naming conventions used for schemas, tables, views, c
 - Create DDL for Tables
 ## V. Documenting & Versioning in GIT
 ## VI. Commit Code in GIT Repo
+
+============================================================================
+=
+
+# 6.	Build Gold Layer
+## I. Analysing:Explore Business Objects
+##  II. Coding: Data Integration
+## III. Validating: Data Integration Checks
+## IV. Document: Draw Data Model of star Schema
+## V. Document: Create Data Catalog
+## VI. Document: Extend Data Flow
+## VII. Commit Code in Git Repo
 
